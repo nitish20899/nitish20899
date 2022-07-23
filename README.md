@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Welcome to my GitHub Profile
-Certified TensorFlow Developer by google and Business Intelligence developer with 2 years of expertise in processing ML pipelines, Deep Learning, Natural Language Processing, Computer vision, and advanced ELT process. ![image](https://user-images.githubusercontent.com/63724986/180625292-34765029-c07a-4aa7-8152-77ccbaa1977d.png)
+Certified TensorFlow Developer by google and Business Intelligence developer with 2 years of expertise in processing ML pipelines, Deep Learning, Natural Language Processing, Computer vision, and advanced ELT process.
 
 I am graduate Student in Computer Science at Bishop's University and a Data Science enthusiast. I love learning various concepts and skills in Data Science.A feeling you get by understanding different algorithms and implementing them in the real world is so satisfying and that's what I do. I am good at ML , Data Analysis and various Deep Learning models and every day I thrive to explore different algorithms and think of how to use them in the real world.
 
