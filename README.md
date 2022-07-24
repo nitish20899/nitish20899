@@ -6,5 +6,3 @@ Certified TensorFlow Developer by google and Business Intelligence developer wit
 
 I make some free time to write blogs about advanced algorithms and other data science related topics. Recently I wrote a blog on understanding and implementing Generative Adversarial Networks. You can check my medium account [here](https://nitishkumarpilla.medium.com/)
 
-[![Nitish Kumar's github stats](https://github-readme-stats.vercel.app/api?username=nitish20899&count_private=true&show_icons=true)](https://github.com/nitish20899/github-readme-stats)
-
