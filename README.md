@@ -1,8 +1,31 @@
 # Hi there 👋
 ## Welcome to my GitHub Profile
-Certified TensorFlow Developer by google and Business Intelligence developer with expertise in processing ML pipelines, Deep Learning, Natural Language Processing, Computer vision, and advanced ELT process. I also hold Master's in Data science with distinction
+# Hi there, I'm Nitish Kumar Pilla! 👋
 
-  I love learning various concepts and skills in Data Science. A feeling you get by understanding different algorithms and implementing them in the real world is so satisfying and that's what I do. I helped big-tech companies develop most efficient machine learning models and ELT process. Expertise in Computervision, NLP and Time-Series Forecasting.
+## About Me
+I'm a passionate Data Scientist with a Master's in Data Science, specializing in Generative AI and machine learning deployment. With over 4 years of experience, I've led multiple large language model projects utilizing GPT, LLaMa, and CODELLAMA 2, excelling in inference services and MLOps.
 
-I make some free time to write blogs about advanced algorithms and other data science related topics. Recently I wrote a blog on understanding and implementing Generative Adversarial Networks. You can check my medium account [here](https://nitishkumarpilla.medium.com/)
+🔭 I’m currently working at Inmind Technologies in Montréal, revolutionizing AI applications in data processing and client interaction.
+
+🌱 I’m always learning and currently delving deeper into AI-driven predictive analytics and machine learning model optimization.
+
+## Professional Highlights
+- **Generative AI Solutions:** Led the design and implementation of AI solutions including a GPT-3 and Codellama-powered chatbot, enhancing client interactions with innovative prompt engineering.
+- **MLOps Expertise:** Championed MLOps practices using Kubeflow, automating and scaling ETL and predictive modeling pipelines.
+- **Research and Development:** Conducted pioneering research in large language models and developed GPU-accelerated models for real-time data processing.
+
+## Skills
+- **Programming Languages:** Proficient in Python, SQL.
+- **Technologies:** Experienced with GCP, Azure, TensorFlow, Scikit-Learn, Docker, and Kubernetes.
+- **Areas of Expertise:** Deep Learning, Generative AI, Large Language Models, Prompt Engineering, MLOps.
+
+## Connect with Me
+- 📫 How to reach me: [nitishkumar2902@gmail.com](mailto:nitishkumar2902@gmail.com)
+- 📄 Resume: [Download](Link-to-your-resume)
+
+Feel free to reach out if you want to discuss AI, machine learning, or any tech-related topics!
+
+![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
 
