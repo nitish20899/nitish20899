@@ -25,7 +25,5 @@ I'm a passionate Data Scientist with a Master's in Data Science, specializing in
 
 Feel free to reach out if you want to discuss AI, machine learning, or any tech-related topics!
 
-![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 
 
