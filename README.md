@@ -21,7 +21,7 @@ I'm a passionate Data Scientist with a Master's in Data Science, specializing in
 
 ## Connect with Me
 - 📫 How to reach me: [nitishkumar2902@gmail.com](mailto:nitishkumar2902@gmail.com)
-- 📄 Resume: [Download](Link-to-your-resume)
+- 📄 Resume: [Download](https://drive.google.com/file/d/1zSvE0GD0r3HotlaZR4-TWriBd47VMzbu/view?usp=sharing)
 
 Feel free to reach out if you want to discuss AI, machine learning, or any tech-related topics!
 
