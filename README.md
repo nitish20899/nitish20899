@@ -7,7 +7,7 @@ I'm a passionate Data Scientist with a Master's in Data Science, specializing in
 
 🔭 I’m currently working at Inmind Technologies in Montréal, revolutionizing AI applications in data processing and client interaction.
 
-🌱 I’m always learning and currently delving deeper into AI-driven predictive analytics and machine learning model optimization.
+🌱 I’m always learning and currently delving deeper into AI-driven predictive analytics , Research on RAG, GPU-accelerated LLM inference sysytems and machine learning model optimization.
 
 ## Professional Highlights
 - **Generative AI Solutions:** Led the design and implementation of AI solutions including a GPT-3 and Codellama-powered chatbot, enhancing client interactions with innovative prompt engineering.
