@@ -3,7 +3,7 @@
 # Hi there, I'm Nitish Kumar Pilla! 👋
 
 ## About Me
-I'm a passionate Data Scientist with a Master's in Data Science, specializing in Generative AI and machine learning deployment. With over 4 years of experience, I've led multiple large language model projects utilizing GPT, LLaMa, and CODELLAMA 2, excelling in inference services and MLOps.
+I'm a passionate Data Scientist with a Master's in Data Science, specializing in Generative AI and machine learning deployment. With over 3 years of experience, I've led multiple large language model projects utilizing GPT, LLaMa, and CODELLAMA 2, excelling in inference services and MLOps.
 
 🔭 I’m currently working at Inmind Technologies in Montréal, revolutionizing AI applications in data processing and client interaction.
 
